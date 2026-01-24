@@ -26,7 +26,6 @@ import {
 } from '../core/proto/common.js';
 import { Blessings, PaladinAura, PaladinOptions as ProtectionPaladinOptions,PaladinSeal } from '../core/proto/paladin.js';
 import { SavedTalents } from '../core/proto/ui.js';
-import APLP4ProtJson from './apls/p4prot.apl.json';
 import APLP5ProtJson from './apls/p5prot.apl.json';
 import BlankGear from './gear_sets/blank.gear.json';
 
@@ -98,7 +97,7 @@ export const DefaultTalents = TalentPresets[Phase.Phase5][0];
 
 export const DefaultOptions = ProtectionPaladinOptions.create({
 	aura: PaladinAura.SanctityAura,
-	primarySeal: PaladinSeal.Martyrdom,
+	primarySeal: PaladinSeal.Righteousness,
 	personalBlessing: Blessings.BlessingOfSanctuary,
 	righteousFury: true,
 });

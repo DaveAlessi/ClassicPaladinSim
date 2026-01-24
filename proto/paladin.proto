@@ -80,7 +80,6 @@ enum PaladinSeal {
 	NoSeal = 0;
 	Righteousness = 1;
 	Command = 2;
-	Martyrdom = 3;
 }
 
 message PaladinOptions {

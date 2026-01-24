@@ -101,5 +101,7 @@
 	],
 	"[go]": {
 		"editor.defaultFormatter": "golang.go"
-	}
+	},
+	"snyk.advanced.organization": "0dadbb81-a14c-4c1c-b28d-a0950f65996d",
+	"snyk.advanced.autoSelectOrganization": true
 }
