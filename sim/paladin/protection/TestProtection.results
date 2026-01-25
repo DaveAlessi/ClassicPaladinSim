@@ -50,28 +50,26 @@ character_stats_results: {
 stat_weights_results: {
  key: "TestProtection-Phase4-StatWeights-Default"
  value: {
-  weights: 0.26263
-  weights: 0.15662
+  weights: 0.25582
+  weights: 0.15088
   weights: 0
-  weights: 0.00227
+  weights: 0.00189
   weights: 0
-  weights: 0.4582
-  weights: 0
-  weights: 0
-  weights: 0
-  weights: 0.39499
+  weights: 0.40239
   weights: 0
   weights: 0
   weights: 0
-  weights: 1.74144
-  weights: 0.28045
+  weights: 0.34136
   weights: 0
   weights: 0
-  weights: 0.10381
-  weights: 2.84604
-  weights: 2.4919
+  weights: 0
+  weights: 0.79404
+  weights: 0.26972
   weights: 0
   weights: 0
+  weights: 0.10111
+  weights: 2.81823
+  weights: 2.42982
   weights: 0
   weights: 0
   weights: 0
@@ -94,159 +92,105 @@ stat_weights_results: {
   weights: 0
   weights: 0
   weights: 0
- }
-}
-dps_results: {
- key: "TestProtection-Phase4-AllItems-Avenger'sBattlegear"
- value: {
-  dps: 513.97134
-  tps: 936.26213
- }
-}
-dps_results: {
- key: "TestProtection-Phase4-AllItems-FieldMarshal'sAegis"
- value: {
-  dps: 497.25906
-  tps: 902.80481
- }
-}
-dps_results: {
- key: "TestProtection-Phase4-AllItems-Freethinker'sArmor"
- value: {
-  dps: 412.51732
-  tps: 738.66308
- }
-}
-dps_results: {
- key: "TestProtection-Phase4-AllItems-JudgementArmor"
- value: {
-  dps: 509.05851
-  tps: 943.82704
- }
-}
-dps_results: {
- key: "TestProtection-Phase4-AllItems-LawbringerArmor"
- value: {
-  dps: 414.88463
-  tps: 739.77547
- }
-}
-dps_results: {
- key: "TestProtection-Phase4-AllItems-LieutenantCommander'sRedoubt"
- value: {
-  dps: 480.81834
-  tps: 881.47553
- }
-}
-dps_results: {
- key: "TestProtection-Phase4-AllItems-RedemptionArmor"
- value: {
-  dps: 394.32849
-  tps: 717.01314
- }
-}
-dps_results: {
- key: "TestProtection-Phase4-AllItems-SanctifiedOrb-20512"
- value: {
-  dps: 392.16572
-  tps: 716.25616
+  weights: 0
+  weights: 0
  }
 }
 dps_results: {
  key: "TestProtection-Phase4-Average-Default"
  value: {
-  dps: 392.65413
-  tps: 715.87402
+  dps: 313.5675
+  tps: 522.21632
  }
 }
 dps_results: {
- key: "TestProtection-Phase4-Settings-Dwarf-blank-P4 Prot-p4prot-FullBuffs-P4-Consumes-LongMultiTarget"
+ key: "TestProtection-Phase4-Settings-Dwarf-blank-Basic Prot Rotation-basic_prot-FullBuffs-P4-Consumes-LongMultiTarget"
  value: {
-  dps: 48.66928
-  tps: 141.78293
+  dps: 35.27545
+  tps: 107.96607
  }
 }
 dps_results: {
- key: "TestProtection-Phase4-Settings-Dwarf-blank-P4 Prot-p4prot-FullBuffs-P4-Consumes-LongSingleTarget"
+ key: "TestProtection-Phase4-Settings-Dwarf-blank-Basic Prot Rotation-basic_prot-FullBuffs-P4-Consumes-LongSingleTarget"
  value: {
-  dps: 48.66928
-  tps: 118.0551
+  dps: 35.27545
+  tps: 85.82632
  }
 }
 dps_results: {
- key: "TestProtection-Phase4-Settings-Dwarf-blank-P4 Prot-p4prot-FullBuffs-P4-Consumes-ShortSingleTarget"
+ key: "TestProtection-Phase4-Settings-Dwarf-blank-Basic Prot Rotation-basic_prot-FullBuffs-P4-Consumes-ShortSingleTarget"
  value: {
-  dps: 113.55847
-  tps: 274.43324
+  dps: 45.08057
+  tps: 109.44712
  }
 }
 dps_results: {
- key: "TestProtection-Phase4-Settings-Dwarf-blank-P4 Prot-p4prot-NoBuffs-P4-Consumes-LongMultiTarget"
+ key: "TestProtection-Phase4-Settings-Dwarf-blank-Basic Prot Rotation-basic_prot-NoBuffs-P4-Consumes-LongMultiTarget"
  value: {
-  dps: 16.2396
-  tps: 38.97504
+  dps: 11.63838
+  tps: 27.93212
  }
 }
 dps_results: {
- key: "TestProtection-Phase4-Settings-Dwarf-blank-P4 Prot-p4prot-NoBuffs-P4-Consumes-LongSingleTarget"
+ key: "TestProtection-Phase4-Settings-Dwarf-blank-Basic Prot Rotation-basic_prot-NoBuffs-P4-Consumes-LongSingleTarget"
  value: {
-  dps: 16.2396
-  tps: 38.97504
+  dps: 11.63838
+  tps: 27.93212
  }
 }
 dps_results: {
- key: "TestProtection-Phase4-Settings-Dwarf-blank-P4 Prot-p4prot-NoBuffs-P4-Consumes-ShortSingleTarget"
+ key: "TestProtection-Phase4-Settings-Dwarf-blank-Basic Prot Rotation-basic_prot-NoBuffs-P4-Consumes-ShortSingleTarget"
  value: {
-  dps: 45.93992
-  tps: 110.25581
+  dps: 22.93383
+  tps: 55.0412
  }
 }
 dps_results: {
- key: "TestProtection-Phase4-Settings-Human-blank-P4 Prot-p4prot-FullBuffs-P4-Consumes-LongMultiTarget"
+ key: "TestProtection-Phase4-Settings-Human-blank-Basic Prot Rotation-basic_prot-FullBuffs-P4-Consumes-LongMultiTarget"
  value: {
-  dps: 48.87083
-  tps: 142.46333
+  dps: 35.68393
+  tps: 109.24143
  }
 }
 dps_results: {
- key: "TestProtection-Phase4-Settings-Human-blank-P4 Prot-p4prot-FullBuffs-P4-Consumes-LongSingleTarget"
+ key: "TestProtection-Phase4-Settings-Human-blank-Basic Prot Rotation-basic_prot-FullBuffs-P4-Consumes-LongSingleTarget"
  value: {
-  dps: 48.87083
-  tps: 118.54867
+  dps: 35.68393
+  tps: 86.82143
  }
 }
 dps_results: {
- key: "TestProtection-Phase4-Settings-Human-blank-P4 Prot-p4prot-FullBuffs-P4-Consumes-ShortSingleTarget"
+ key: "TestProtection-Phase4-Settings-Human-blank-Basic Prot Rotation-basic_prot-FullBuffs-P4-Consumes-ShortSingleTarget"
  value: {
-  dps: 113.55847
-  tps: 274.43324
+  dps: 45.08057
+  tps: 109.44712
  }
 }
 dps_results: {
- key: "TestProtection-Phase4-Settings-Human-blank-P4 Prot-p4prot-NoBuffs-P4-Consumes-LongMultiTarget"
+ key: "TestProtection-Phase4-Settings-Human-blank-Basic Prot Rotation-basic_prot-NoBuffs-P4-Consumes-LongMultiTarget"
  value: {
-  dps: 16.98458
-  tps: 40.76299
+  dps: 12.38336
+  tps: 29.72007
  }
 }
 dps_results: {
- key: "TestProtection-Phase4-Settings-Human-blank-P4 Prot-p4prot-NoBuffs-P4-Consumes-LongSingleTarget"
+ key: "TestProtection-Phase4-Settings-Human-blank-Basic Prot Rotation-basic_prot-NoBuffs-P4-Consumes-LongSingleTarget"
  value: {
-  dps: 16.98458
-  tps: 40.76299
+  dps: 12.38336
+  tps: 29.72007
  }
 }
 dps_results: {
- key: "TestProtection-Phase4-Settings-Human-blank-P4 Prot-p4prot-NoBuffs-P4-Consumes-ShortSingleTarget"
+ key: "TestProtection-Phase4-Settings-Human-blank-Basic Prot Rotation-basic_prot-NoBuffs-P4-Consumes-ShortSingleTarget"
  value: {
-  dps: 45.93992
-  tps: 110.25581
+  dps: 22.93383
+  tps: 55.0412
  }
 }
 dps_results: {
  key: "TestProtection-Phase4-SwitchInFrontOfTarget-Default"
  value: {
-  dps: 351.18508
-  tps: 647.98176
+  dps: 274.08376
+  tps: 459.70059
  }
 }

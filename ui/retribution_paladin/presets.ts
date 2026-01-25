@@ -111,7 +111,7 @@ export const DefaultTalents = TalentPresets[Phase.Phase5][0];
 
 export const DefaultOptions = RetributionPaladinOptions.create({
 	aura: PaladinAura.SanctityAura,
-	primarySeal: PaladinSeal.Martyrdom,
+	primarySeal: PaladinSeal.Righteousness,
 });
 
 export const DefaultConsumes = Consumes.create({

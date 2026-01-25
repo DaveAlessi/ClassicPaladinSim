@@ -25,7 +25,7 @@ func TestRetribution(t *testing.T) {
 			OtherRotations: []core.RotationCombo{core.GetAplRotation("../../../ui/retribution_paladin/apls", "p5ret-twist-4DR-3.7-4.0")},
 			Buffs:          core.FullBuffs,
 			Consumes:       Phase5Consumes,
-			SpecOptions:    core.SpecOptionsCombo{Label: "P5 Seal of Martyrdom Ret", SpecOptions: PlayerOptionsSealofMartyrdom},
+			SpecOptions:    core.SpecOptionsCombo{Label: "P5 Seal of Righteousness Ret", SpecOptions: PlayerOptionsSealofRighteousness},
 
 			ItemFilter:      ItemFilters,
 			EPReferenceStat: proto.Stat_StatAttackPower,
@@ -47,7 +47,7 @@ func TestExodin(t *testing.T) {
 			Rotation:    core.GetAplRotation("../../../ui/retribution_paladin/apls", "p5ret-exodin-6CF2DR"),
 			Buffs:       core.FullBuffs,
 			Consumes:    Phase5Consumes,
-			SpecOptions: core.SpecOptionsCombo{Label: "P5 Seal of Martyrdom Ret", SpecOptions: PlayerOptionsSealofMartyrdom},
+			SpecOptions: core.SpecOptionsCombo{Label: "P5 Seal of Righteousness Ret", SpecOptions: PlayerOptionsSealofRighteousness},
 
 			ItemFilter:      ItemFilters,
 			EPReferenceStat: proto.Stat_StatAttackPower,
