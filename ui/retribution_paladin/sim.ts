@@ -135,7 +135,6 @@ const SPEC_CONFIG = registerSpecConfig(Spec.SpecRetributionPaladin, {
 
 	presets: {
 		rotations: [
-			...Presets.APLPresets[Phase.Phase5],
 			...Presets.APLPresets[Phase.Phase4],
 			...Presets.APLPresets[Phase.Phase3],
 			...Presets.APLPresets[Phase.Phase2],
@@ -143,7 +142,6 @@ const SPEC_CONFIG = registerSpecConfig(Spec.SpecRetributionPaladin, {
 		],
 		// Preset talents that the user can quickly select.
 		talents: [
-			...Presets.TalentPresets[Phase.Phase5],
 			...Presets.TalentPresets[Phase.Phase4],
 			...Presets.TalentPresets[Phase.Phase3],
 			...Presets.TalentPresets[Phase.Phase2],
